@@ -1,1 +1,4 @@
-# Dog Annotator
+# Simple Point Annotator
+
+:fire:
+
